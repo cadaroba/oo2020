@@ -1,0 +1,4 @@
+kirjalik lahutamine
+Väljastatakse kahe sisestatud arvu vahe absoluutväärtus
+Ekraanile joonistatakse suurem arv üles, väiksem alla ning vahe kõige alla
+Võlgu võetud väärtused tähsistatakse punktiga
