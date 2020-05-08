@@ -1,0 +1,18 @@
+1. tegin liidese TekstiUurija, mida siis kasutab TekstiTestid et vastuse kätte saada
+
+2. tegin TekstiTestid ja kasutan seal liidest TekstiUurija millel muutuja t, 
+	kirjutan valmis 3 testi mis kontrollib tähti aep
+
+3. teen uue klassi TekstiUurijaRobin et t saaks endale väärtuse
+
+4. TekstiUurijaRobin sees on loenda funktsioon
+
+5. oleks vaja testid tööle panna seega teen TekstiTestidRobin, mis tekitab alamklassi, 
+	annan t muutujale väärtuse TekstiUurijaRobin
+
+6. Loon main faili Kaivitaja1 mis väljastab (aep) tähtede arvu sõnas pere
+
+7. Jooksutades TekstiTestidRobin tuleb 3 testi millest 1 FAILURE, 
+	sest a tähte pole sõnas pere
+
+8. Hetkel otsin võimalust kuidas lugeda lausest a tähti, loeb lausest sõnu küll
